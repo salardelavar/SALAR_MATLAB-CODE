@@ -1,5 +1,5 @@
 %***********************************************************%
-%                  >> IN THE NAME OF GOD <<                 %
+%                >> IN THE NAME OF ALLAH <<                 %
 %  Moment-Curvature Analysis of Confined Concrete Section   %
 %-----------------------------------------------------------%
 %     This program is written by salar delavar ghashghaei   %  
