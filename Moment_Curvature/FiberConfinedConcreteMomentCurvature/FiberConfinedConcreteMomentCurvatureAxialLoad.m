@@ -1,5 +1,5 @@
 %***********************************************************%
-%                  >> IN THE NAME OF GOD <<                 %
+%                >> IN THE NAME OF ALLAH <<                 %
 %   Moment-Curvature Analysis of Confined concrete section  %
 %   With Axial Load effect                                  %
 %-----------------------------------------------------------%
