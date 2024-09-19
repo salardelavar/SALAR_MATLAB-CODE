@@ -1,5 +1,5 @@
 %***********************************************************%
-%                  >> IN THE NAME OF GOD <<                 %
+%                >> IN THE NAME OF ALLAH <<                 %
 %  Moment-Curvature analysis of Unconfined concrete section %
 %-----------------------------------------------------------%
 %     This program is written by salar delavar ghashghaei   %  
