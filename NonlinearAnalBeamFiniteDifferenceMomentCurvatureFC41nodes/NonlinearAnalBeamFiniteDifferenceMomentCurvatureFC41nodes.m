@@ -1,5 +1,5 @@
 %***********************************************************%
-%               >> IN THE NAME OF GOD <<                    %
+%               >> IN THE NAME OF ALLAH <<                  %
 % Analysis of Fixed Beam with distributed load              %
 % By Finite difference Method. - Force control              %                                                 
 %-----------------------------------------------------------%
