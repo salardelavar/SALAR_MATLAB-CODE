@@ -1,6 +1,6 @@
 %***********************************************************%
-%              >> IN THE NAME OF GOD <<                     %
-% LINK – PLASTIC KINEMATIC LINK                             %
+%                 >> IN THE NAME OF ALLAH <<                %
+% LINK â€“ PLASTIC KINEMATIC LINK                             %
 % Checking the analysis by Force                            %
 % SAP2000:Example 6-009                                     %
 %-----------------------------------------------------------%
