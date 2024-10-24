@@ -1,5 +1,5 @@
 %**************************************************************%
-%                   >> IN THE NAME OF GOD <<                   %
+%                  >> IN THE NAME OF ALLAH <<                  %
 % This program analysis Plate on elastic foundation            %           
 % by finite difference Method                                  %
 %--------------------------------------------------------------%
