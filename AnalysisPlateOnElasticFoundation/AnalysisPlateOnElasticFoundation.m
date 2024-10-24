@@ -1,6 +1,6 @@
 %**************************************************************%
 %                  >> IN THE NAME OF ALLAH <<                  %
-% This program analysis Plate on elastic foundation            %           
+% This program analysis Plate Element on elastic foundation    %           
 % by finite difference Method                                  %
 %--------------------------------------------------------------%
 %      This program is written by salar delavar ghashghaei     %
