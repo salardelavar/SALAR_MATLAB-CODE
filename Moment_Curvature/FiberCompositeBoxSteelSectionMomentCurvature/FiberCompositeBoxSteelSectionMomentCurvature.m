@@ -2,7 +2,7 @@
 %                 >> IN THE NAME OF ALLAH <<                %
 %Moment-Curvature Analysis of Steel Box and Concrete section%
 %-----------------------------------------------------------%
-%     This program is written by salar delavar ghashghaei   %  
+%    This program is written by Salar Delavar Ghashghaei    %  
 %          E-mail:salar.d.ghashghaei@gmail.com              %
 %-----------------------------------------------------------%
 %Unit: Newton-Milimeter                                     %
