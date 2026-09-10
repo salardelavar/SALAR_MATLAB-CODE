@@ -1,1 +1,2 @@
-https://github.com/salardelavar/SALAR_MATLAB-CODE/blob/main/PushoverLateralTruss/coverX.png
+![alt text](https://github.com/salardelavar/SALAR_MATLAB-CODE/blob/main/PushoverLateralTruss/coverX.png) 
+
