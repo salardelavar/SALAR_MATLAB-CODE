@@ -2,4 +2,4 @@
 # Checking the analysis by Displacement - Large displacement
 # ABAQUS anad SEISMSOSTRUCT verification    
 
-![alt text]() 
+![alt text](https://github.com/salardelavar/SALAR_MATLAB-CODE/blob/main/PushoverLateralTruss02/PushoverLateralTruss03Ldc.jpg) 
