@@ -1,3 +1,3 @@
-# DETERMINATION OF OPTIMUM STRUCTURAL INITIAL ELASTIC STIFFNESS FROM STRUCTURAL PERIOD USING FINITE‑DIFFERENCE NEWTON ITERATION AND OPENSEES WITH AND WITHOUT PARALLEL COMPUTING
+# Pushover Analysis of Nonlinear Springs with Force Control
 
 ![alt text](https://github.com/salardelavar/SALAR_MATLAB-CODE/blob/main/PushoverAnalysisNonlinearSpringsFC/PushoverAnalysisNonlinearSpringsFC.jpg) 
